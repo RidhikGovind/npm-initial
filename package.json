@@ -1,0 +1,16 @@
+{
+  "name": "npm-initial",
+  "version": "1.0.0",
+  "description": "first npm package created for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "initial"
+  ],
+  "author": "Ridhik Govind",
+  "license": "ISC"
+}
