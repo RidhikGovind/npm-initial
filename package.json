@@ -1,6 +1,6 @@
 {
   "name": "npm-initial",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "first npm package created for learning purposes",
   "main": "index.js",
   "scripts": {
