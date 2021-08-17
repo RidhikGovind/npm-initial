@@ -1,6 +1,6 @@
 {
   "name": "npm-initial",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "first npm package created for learning purposes",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,6 @@
     "initial"
   ],
   "author": "Ridhik Govind",
-  "license": "ISC"
+  "license": "ISC", 
+  "git-repo": "https://github.com/RidhikGovind/npm-initial"
 }
